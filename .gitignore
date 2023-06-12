@@ -1,0 +1,5 @@
+# Arquivo .gitignore
+
+venv/
+__pycache__/
+*.mp3
